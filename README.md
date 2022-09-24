@@ -4,7 +4,7 @@
 </head>
 
 <body>
-<div id="header" align="center">
+<div align="center">
   <img src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" width="200"/>
 </div>
 
@@ -40,7 +40,6 @@
 
 <p><img align="center" src="https://streak-stats.demolab.com?user=JoseMG-ux&theme=horizon&hide_border=true)](https://git.io/streak-stats" alt="JoseMG-ux" /></p>
 
-<br>
 
 ### <h1> **Bye** <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">  </h1>
 

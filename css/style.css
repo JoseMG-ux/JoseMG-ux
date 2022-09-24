@@ -1,10 +1,11 @@
 .MostLanguages{
     position: relative;
     top: 6rem;
-    padding-left:1%;    
+    padding-left:2%;    
 }
 .SocialReds{
     display: flex; 
-    justify-content: center; 
+    position: relative;
+    left: 42%;
     gap: 3rem;
 }
