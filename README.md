@@ -29,7 +29,7 @@
 
 - ⚡ Jr. Developer ( JavaScript | C# )
 
-- 🤔 I am currently learning about Cloud Technologies, JS Frameworks (React).
+- 🤔 I am currently learning about Cloud Technologies and Web development.
 
 </br>
 
