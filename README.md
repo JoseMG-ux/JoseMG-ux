@@ -5,20 +5,24 @@
 
 <body>
 <div align="center">
-  <img src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" width="200"/>
-</div>
-</br>
-<p align="center" class="SocialReds">
-    <a href="mailto:joseutp14@gmail.com">
-    <img align="left" alt="José Moreno Gómez" width="27px" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Gmail.svg"/></a>
-        <a target="_blank" href="https://www.linkedin.com/in/">
+  <div align="center">
+    <img src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" width="200"/>
+  </div>
+  </br>
+  <div align="center" class="SocialReds">
+      <a href="mailto:joseutp14@gmail.com">
+        <img align="left" alt="José Moreno Gómez" width="27px" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Gmail.svg"/></a>
+      <a target="_blank" href="https://www.linkedin.com/in/">
         <img align="left" alt="José Moreno Gómez" width="27px" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Linkedin.svg" />
-        </a>
-                <a href="https://twitter.com/">
-                <img align="left" alt="José Moreno Gómez | Twitter" width="27px" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Twitter.svg" />
-                </a>
+      </a>
+      <a href="https://twitter.com/">
+        <img align="left" alt="José Moreno Gómez | Twitter" width="27px" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Twitter.svg" />
+      </a>
+  </div>
+</div>
+
 </html>
-</p>
+
 </br>
 
 ### <h2> **Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, Im José Moreno Gómez** 🚀</h2>
