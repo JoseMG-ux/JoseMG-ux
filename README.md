@@ -15,9 +15,6 @@
       <a target="_blank" href="https://www.linkedin.com/in/">
         <img align="left" alt="José Moreno Gómez" width="27px" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Linkedin.svg" />
       </a>
-      <a href="https://twitter.com/">
-        <img align="left" alt="José Moreno Gómez | Twitter" width="27px" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Twitter.svg" />
-      </a>
   </div>
 </div>
 
