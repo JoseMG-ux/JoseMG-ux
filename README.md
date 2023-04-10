@@ -28,7 +28,7 @@
 
 - 🤖 I’m currently working on ***[Grupo Trenco](http://www.trenco.com.pa/)*** as a Backend Developer
 
-- ⚡ Jr. Developer ( JavaScript | C# )
+- ⚡ Developer ( JavaScript | C# )
 
 - 🤔 I am currently learning about Cloud Technologies and Web development.
 
