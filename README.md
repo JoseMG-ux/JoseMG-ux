@@ -26,11 +26,11 @@
 
 
 
-- 🤖 I’m currently working on ***[Grupo Trenco](http://www.trenco.com.pa/)*** as a Backend Developer
+- 🤖 I'm currently working on ***[Panama PAC Solutions and Services (Grupo Trenco)](http://52.226.230.241/)*** as a Backend Developer
 
 - ⚡ Developer ( JavaScript | C# )
 
-- 🤔 I am currently learning about Cloud Technologies and Web development.
+- 🤔 I'm currently learning about Cloud Technologies, Web development and in the future I would like to learn Angular and Typescript.
 
 </br>
 
