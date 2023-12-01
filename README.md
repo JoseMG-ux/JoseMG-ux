@@ -9,13 +9,6 @@
     <img src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" width="200"/>
   </div>
   </br>
-  <div align="center" class="SocialReds">
-      <a href="mailto:joseutp14@gmail.com">
-        <img align="left" alt="José Moreno Gómez" width="27px" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Gmail.svg"/></a>
-      <a target="_blank" href="https://www.linkedin.com/in/">
-        <img align="left" alt="José Moreno Gómez" width="27px" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Linkedin.svg" />
-      </a>
-  </div>
 </div>
 
 </html>
