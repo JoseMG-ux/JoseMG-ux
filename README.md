@@ -21,7 +21,7 @@
 
 - 🤖 I'm currently working on ***[Panama PAC Solutions and Services (Grupo Trenco)](http://52.226.230.241/)*** as a Backend Developer
 
-- ⚡ Developer ( JavaScript | C# )
+- ⚡ Developer ( JavaScript | TypeScript | C# )
 
 - 🤔 I'm currently learning about Cloud Technologies, Web development and in the future I would like to learn Angular and Typescript.
 
