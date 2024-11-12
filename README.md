@@ -25,6 +25,8 @@
 
 - 🤔 I'm currently learning about Cloud Technologies, Web development and in the future I would like to learn Angular and Typescript.
 
+- My portfolio: ***[PORTFOLIO 🚀](https://josemg-ux.github.io/myportfolio/)***
+
 </br>
 
 <div>
