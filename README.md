@@ -19,7 +19,7 @@
 
 
 
-- 🤖 I'm currently working on ***[Panama PAC Solutions and Services (Grupo Trenco)](http://52.226.230.241/)*** as a Backend Developer
+- 🤖 I'm currently working on ***[Panama PAC Solutions and Services (Grupo Trenco)](http://52.226.230.241/)*** as a Frontend Developer
 
 - ⚡ Developer ( JavaScript | TypeScript | C# )
 
